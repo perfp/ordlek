@@ -71,4 +71,4 @@ while attempts > 0:
         break
 
 if not done:
-    print("Bedre lykke neste gang.")
+    print("Svaret var '" + solution +"'. Bedre lykke neste gang.")
